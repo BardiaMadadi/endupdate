@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdate:magma_ingot"
+    }
+  },
+  "result": {
+    "item": "netherupdate:magma_ore_block",
+    "count": 1
+  }
+}

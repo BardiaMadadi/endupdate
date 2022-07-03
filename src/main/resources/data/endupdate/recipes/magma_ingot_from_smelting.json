@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "netherupdate:magma_sword"
+    },
+    {
+      "item": "netherupdate:raw_magma_ingot"
+    }
+  ],
+  "result": "netherupdate:magma_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}

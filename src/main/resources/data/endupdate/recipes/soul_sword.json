@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "/#/",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdate:soul_ingot"
+    },
+    "/": {
+      "item": "netherupdate:stone_stick"
+    }
+  },
+  "result": {
+    "item": "netherupdate:soul_sword",
+    "count": 1
+  }
+}

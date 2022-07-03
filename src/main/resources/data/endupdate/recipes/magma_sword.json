@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "/#/",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdate:magma_ingot"
+    },
+    "/": {
+      "item": "netherupdate:stone_stick"
+    }
+  },
+  "result": {
+    "item": "netherupdate:magma_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdate:basalt_ore_block"
+    }
+  },
+  "result": {
+    "item": "netherupdate:basalt_ingot",
+    "count": 9
+  }
+}

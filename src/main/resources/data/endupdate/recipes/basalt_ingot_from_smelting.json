@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "netherupdate:basalt_sword"
+    },
+    {
+      "item": "netherupdate:raw_basalt_ingot"
+    }
+  ],
+  "result": "netherupdate:basalt_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}

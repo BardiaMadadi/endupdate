@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "/#/",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdate:basalt_ingot"
+    },
+    "/": {
+      "item": "netherupdate:stone_stick"
+    }
+  },
+  "result": {
+    "item": "netherupdate:basalt_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "netherupdate:soul_sword"
+    },
+    {
+      "item": "netherupdate:raw_soul_ingot"
+    }
+  ],
+  "result": "netherupdate:soul_ingot",
+  "experience": 0.2,
+  "cookingtime": 200
+}
